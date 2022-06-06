@@ -1,3 +1,1 @@
-### Laws
-
-[go](nice.md)Nice
+[nice](nice.md)Nice
